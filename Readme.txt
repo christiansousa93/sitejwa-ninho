@@ -8,3 +8,6 @@ Profº: Tarik Ponciano
 Senac
 
 Tecnologias usadas: HTML e CSS com Bootstrap.
+
+
+Site de acesso: http://jwatecnologia.epizy.com/
