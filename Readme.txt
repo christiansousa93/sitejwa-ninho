@@ -1,6 +1,6 @@
 ### Trabalho final do Curso de Desenvolvimento de Sistemas.
 
-#### Sistema ERP em Python com a biblioteca gráfica Pyqt5
+#### Site para anunciar venda de um sistema ERP
 
 
 Tecnologias usadas: HTML, CSS com Bootstrap, WinSCP e InfinityFree.
