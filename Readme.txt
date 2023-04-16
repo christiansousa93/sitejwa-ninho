@@ -1,13 +1,13 @@
-Trabalho final do Curso de Desenvolvimento de Sistemas.
+### Trabalho final do Curso de Desenvolvimento de Sistemas.
 
-Equipe: Christian Sousa
-        Juliana Rocha
-        Ravhel Abreu
+#### Sistema ERP em Python com a biblioteca gráfica Pyqt5
 
-Profº: Tarik Ponciano
-Senac
 
-Tecnologias usadas: HTML e CSS com Bootstrap.
+Tecnologias usadas: HTML, CSS com Bootstrap, WinSCP e InfinityFree.
+
 
 
 Site de acesso: http://jwatecnologia.epizy.com/
+
+![site](https://user-images.githubusercontent.com/103544118/232335733-ecb24a11-04cf-4b2b-b879-8867b4e0c81d.png)
+
